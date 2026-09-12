@@ -1,5 +1,5 @@
 {
-  "version": "1.8.4",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.4/FamilyBudget.exe",
-  "notes": "Transactions: changing a row's category no longer reloads the list (the row stays put with a check mark, so 'always' can still be clicked under Uncategorized-only); the list refreshes on the next always / filter change."
+  "version": "1.9.0",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.9.0/FamilyBudget.exe",
+  "notes": "Six new reports: Cash flow by month (savings rate, runway), Category x month heatmap, Income sources, Fixed vs discretionary, Interest & fees, Largest transactions. Report picker grouped into Overview / Where it goes / Deeper."
 }
