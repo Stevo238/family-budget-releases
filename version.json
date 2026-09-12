@@ -1,5 +1,5 @@
 {
-  "version": "1.12.2",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.12.2/FamilyBudget.exe",
-  "notes": "Balances tab: investments are left out of the chart, totals and account list unless 'Include investments' is ticked (remembered). UBS statements: fee credits/refunds, option assignments/expirations, name changes, reverse splits and cash-in-lieu are recognised (no more 'unrecognised activity' flags across Jan-Aug)."
+  "version": "1.12.3",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.12.3/FamilyBudget.exe",
+  "notes": "Category dropdowns are A-Z with Expenses / Income / Transfers / Investing groups (Travel was hiding in an unsorted list). Investment accounts and the Investing categories no longer appear on the Budget page - they have the Balances toggle and the Investments report. Statement rows filed Uncategorized by the older reader (fee credits, option expirations, name changes, cash-in-lieu) are re-filed on this update - no need to reload the UBS PDFs."
 }
