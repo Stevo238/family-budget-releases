@@ -1,5 +1,5 @@
 {
-  "version": "1.11.1",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.11.1/FamilyBudget.exe",
-  "notes": "Reports: the family review is for whatever period is picked (titled with the actual months, no quarter wording); new This quarter range button."
+  "version": "1.12.0",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.12.0/FamilyBudget.exe",
+  "notes": "Investments: Import -> 'UBS household statement (PDF)' reads every account in the monthly statement (drop in all the months at once, any order) - accounts are created on first sight, month-end values and activity recorded, reloading a month changes nothing. Investment activity never touches the budget; new Investments report (put in / taken out / dividends / fees / market), Balances shows statement values with the market change between them, investments line on the net-worth chart, family review splits cash vs investments."
 }
