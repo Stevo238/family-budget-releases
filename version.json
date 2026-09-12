@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.0/FamilyBudget.exe",
-  "notes": "Balances: 'find in-transit' on a statement that doesn't reconcile lists the rows dated just before the closing date, pre-ticks the set that explains the difference exactly, and marks them as posted after the statement (Amex files carry no post date)."
+  "version": "1.8.1",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.1/FamilyBudget.exe",
+  "notes": "Budget page: the Accounts section is bundled by login like the Balances tab."
 }
