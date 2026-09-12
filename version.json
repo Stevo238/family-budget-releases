@@ -1,5 +1,5 @@
 {
-  "version": "1.8.2",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.2/FamilyBudget.exe",
-  "notes": "Balances: edit a statement balance in place; new-balance date defaults to a month after the last one. Reports: Last month button; three new reports - Compare with the period before, Budget vs actual, Recurring bills & subscriptions."
+  "version": "1.8.3",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.3/FamilyBudget.exe",
+  "notes": "Transactions: the category cell no longer draws a clipped tile border on hover (style collision with the Budget tiles)."
 }
