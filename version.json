@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.12.0/FamilyBudget.exe",
-  "notes": "Investments: Import -> 'UBS household statement (PDF)' reads every account in the monthly statement (drop in all the months at once, any order) - accounts are created on first sight, month-end values and activity recorded, reloading a month changes nothing. Investment activity never touches the budget; new Investments report (put in / taken out / dividends / fees / market), Balances shows statement values with the market change between them, investments line on the net-worth chart, family review splits cash vs investments."
+  "version": "1.12.1",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.12.1/FamilyBudget.exe",
+  "notes": "UBS statements from before July 2026 now load (their page footer and cash sub-ledger are laid out differently - the app was rejecting them as 'no account pages found' and, once past that, would have double-counted sweep deposits). Capital-gain distributions recognised. The import dialog counts statements as it reads them."
 }
