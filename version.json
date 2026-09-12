@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.7.1/FamilyBudget.exe",
-  "notes": "Reconcile warning skips accounts whose balance is $0 (paid-off, idle cards)."
+  "version": "1.7.2",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.7.2/FamilyBudget.exe",
+  "notes": "Balance column: when it snaps to a bank statement balance the rows don't add up to, the row is marked in amber with the difference instead of silently jumping."
 }
