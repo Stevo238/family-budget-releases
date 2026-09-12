@@ -1,5 +1,5 @@
 {
-  "version": "1.12.3",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.12.3/FamilyBudget.exe",
-  "notes": "Category dropdowns are A-Z with Expenses / Income / Transfers / Investing groups (Travel was hiding in an unsorted list). Investment accounts and the Investing categories no longer appear on the Budget page - they have the Balances toggle and the Investments report. Statement rows filed Uncategorized by the older reader (fee credits, option expirations, name changes, cash-in-lieu) are re-filed on this update - no need to reload the UBS PDFs."
+  "version": "1.12.4",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.12.4/FamilyBudget.exe",
+  "notes": "Investment accounts are now kept out of the budget by an account setting (Settings -> Accounts, 'off budget') instead of per-row excludes - the row ✕ can no longer put them back, and existing UBS accounts are switched over on this update. Budget page: the per-bucket sort menus are gone. Reports: the Statement (P&L) report opens by default. Balances: the 'older statements' fold collapses again, and the investment account tables always show - the 'Include investments' toggle only affects the chart."
 }
