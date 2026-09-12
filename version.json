@@ -1,5 +1,5 @@
 {
-  "version": "1.9.1",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.9.1/FamilyBudget.exe",
-  "notes": "Reports: hints sit above the tables, wide tables scroll with a sticky first column, empty leading months dropped, stat tiles labelled per report (recurring per month/per year), budget vs actual judges only the months a limit covered, phone layout no longer wraps dates."
+  "version": "1.10.0",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.10.0/FamilyBudget.exe",
+  "notes": "Reports: Quarterly review (family meeting) - talking points, month by month, where it went vs the period before, budget check, balances and net worth, biggest expenses, fees, clean-up list, Print button. Last quarter button on the Reports range bar."
 }
