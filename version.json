@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.7.0/FamilyBudget.exe",
-  "notes": "Accounts can be bundled by bank login (Settings > Accounts > login): the import dialog and the Balances tab group by it. Balances tab warns when an account with activity hasn't been reconciled in 90 days."
+  "version": "1.7.1",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.7.1/FamilyBudget.exe",
+  "notes": "Reconcile warning skips accounts whose balance is $0 (paid-off, idle cards)."
 }
