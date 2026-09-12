@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.9.0/FamilyBudget.exe",
-  "notes": "Six new reports: Cash flow by month (savings rate, runway), Category x month heatmap, Income sources, Fixed vs discretionary, Interest & fees, Largest transactions. Report picker grouped into Overview / Where it goes / Deeper."
+  "version": "1.9.1",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.9.1/FamilyBudget.exe",
+  "notes": "Reports: hints sit above the tables, wide tables scroll with a sticky first column, empty leading months dropped, stat tiles labelled per report (recurring per month/per year), budget vs actual judges only the months a limit covered, phone layout no longer wraps dates."
 }
