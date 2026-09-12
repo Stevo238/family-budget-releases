@@ -1,5 +1,5 @@
 {
-  "version": "1.8.3",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.3/FamilyBudget.exe",
-  "notes": "Transactions: the category cell no longer draws a clipped tile border on hover (style collision with the Budget tiles)."
+  "version": "1.8.4",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.4/FamilyBudget.exe",
+  "notes": "Transactions: changing a row's category no longer reloads the list (the row stays put with a check mark, so 'always' can still be clicked under Uncategorized-only); the list refreshes on the next always / filter change."
 }
