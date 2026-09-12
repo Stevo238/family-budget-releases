@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.1/FamilyBudget.exe",
-  "notes": "Budget page: the Accounts section is bundled by login like the Balances tab."
+  "version": "1.8.2",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.8.2/FamilyBudget.exe",
+  "notes": "Balances: edit a statement balance in place; new-balance date defaults to a month after the last one. Reports: Last month button; three new reports - Compare with the period before, Budget vs actual, Recurring bills & subscriptions."
 }
