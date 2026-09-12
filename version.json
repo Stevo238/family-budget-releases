@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.10.0/FamilyBudget.exe",
-  "notes": "Reports: Quarterly review (family meeting) - talking points, month by month, where it went vs the period before, budget check, balances and net worth, biggest expenses, fees, clean-up list, Print button. Last quarter button on the Reports range bar."
+  "version": "1.11.0",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.11.0/FamilyBudget.exe",
+  "notes": "Auto budget (limits suggested from the last 3/6/12 months, editable before applying); Budget tiles grouped into buckets with a sort per bucket; Accounts moved to their own tab; Balances daily view (30/90/180 days) and older reconciled statements folded away by default; undo-import and rule-delete ask in-page before acting; Settings: Rules full-width, searchable, scroll-capped; dialogs centred."
 }
