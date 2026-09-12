@@ -1,1 +1,5 @@
-{"version": "1.6.0", "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.6.0/FamilyBudget.exe", "notes": "Statement timing: imports keep the bank's post date (Chase/Capital One/Discover files have one); balances and statement checks follow it while budgets keep the transaction date. Re-import a Chase file to back-fill post dates on rows already loaded. A difference that reverses exactly at the next statement is shown as 'timing', not an error, with no adjustment offered."}
+{
+  "version": "1.6.1",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.6.1/FamilyBudget.exe",
+  "notes": "Import wizard shows the account's last 4 (matches the number on the bank download); accounts list gained a 'last 4' button to set it."
+}
