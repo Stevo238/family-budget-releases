@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.18.0/FamilyBudget.exe",
-    "version":  "1.18.0",
-    "notes":  "Pay that goes straight into an investment account (the slice of a paycheck the payroll office sends to UBS) now counts as income: it shows up in Settings \u003e Income sources, so it can be assigned to a person, appears in the Income report with the account it landed in (the Statement stays bank-money only), and in the Money flow diagram it flows source \u003e person \u003e Income \u003e To investments, feeding the investment row\u0027s \u0027Put in\u0027. Tooltips and the summary say how much was paid straight in."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.19.0/FamilyBudget.exe",
+    "version":  "1.19.0",
+    "notes":  "Money flow: pay that skips the bank (a paycheck slice sent straight to UBS, a 401k contribution) now leaves the person\u0027s block as its own band straight down to Investments. The person\u0027s block is their whole pay; Income is only what landed in the non-investment accounts (the Statement\u0027s figure), so its in and out match again. Works for any number of people and investment accounts."
 }
