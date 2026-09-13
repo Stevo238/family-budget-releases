@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.22.0/FamilyBudget.exe",
-    "version":  "1.22.0",
-    "notes":  "Budget page: a From investments section under Income shows cash moved in from the investment accounts and spending paid straight from them (not income), and a new Net tile adds it in (Income - Spent + From investments). Money flow with investments: Taken out no longer counts the statement\u0027s fees a second time, so Kept invested now matches how much the accounts grew."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.22.1/FamilyBudget.exe",
+    "version":  "1.22.1",
+    "notes":  "Money flow with investments: the Investments block is labelled with everything that flows through it, like every other block, and hovering it lists each band in and out plus how much the accounts grew."
 }
