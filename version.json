@@ -1,5 +1,5 @@
 {
-  "version": "1.12.4",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.12.4/FamilyBudget.exe",
-  "notes": "Investment accounts are now kept out of the budget by an account setting (Settings -> Accounts, 'off budget') instead of per-row excludes - the row ✕ can no longer put them back, and existing UBS accounts are switched over on this update. Budget page: the per-bucket sort menus are gone. Reports: the Statement (P&L) report opens by default. Balances: the 'older statements' fold collapses again, and the investment account tables always show - the 'Include investments' toggle only affects the chart."
+  "version": "1.13.0",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.13.0/FamilyBudget.exe",
+  "notes": "Balances tab works on the phone - each statement is a card instead of a 7-column table. Accounts cards show when each account was last imported and when its balance was last checked (amber when overdue). Budget page gets a month-close checklist: what is left to import, reconcile, file or match before a month is closed, and a green line once a past month is done. Settings -> Categories: 'rename' is now 'edit' - change the name, group and expense/income type in one place."
 }
