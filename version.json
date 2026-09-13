@@ -1,5 +1,5 @@
 {
-  "version": "1.13.2",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.13.2/FamilyBudget.exe",
-  "notes": "Accounts tab shows the UBS (off-budget) accounts again, in their own 'Off budget' section at the bottom - statement value, which statement month they are current through, and an Import button that opens the UBS statement import. Plus 1.13.1: one 'edit' per account/category row in Settings with every setting in an inline form (tax-deductible is a checkbox). Plus 1.13.0: Balances tab as phone cards, account freshness lines, Budget page month-close checklist."
+  "version": "1.14.0",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.14.0/FamilyBudget.exe",
+  "notes": "Family review report (Reports > Family review) rebuilt for the kitchen table: printing now gives clean full pages instead of one clipped scroll box (works on phone too). New sections: Where it went (spending by bucket vs the period before), Where we shopped most, Bills and subscriptions (with a yes/cut tick box on paper), Where the money came from, and Biggest single expenses (one per vendor). New 'What we agreed' notes box at the bottom - type your decisions, they save automatically and print inside the report; the next review shows 'Last time we agreed' so you can check whether you kept them. Every row still clicks through to its transactions."
 }
