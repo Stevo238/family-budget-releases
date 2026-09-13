@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.19.0/FamilyBudget.exe",
-    "version":  "1.19.0",
-    "notes":  "Money flow: pay that skips the bank (a paycheck slice sent straight to UBS, a 401k contribution) now leaves the person\u0027s block as its own band straight down to Investments. The person\u0027s block is their whole pay; Income is only what landed in the non-investment accounts (the Statement\u0027s figure), so its in and out match again. Works for any number of people and investment accounts."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.19.1/FamilyBudget.exe",
+    "version":  "1.19.1",
+    "notes":  "Money flow: pay that skips the bank (a paycheck slice sent straight to UBS, a 401k contribution) now leaves the person\u0027s block as its own band straight down to Investments. The person\u0027s block is their whole pay; Income is only what landed in the non-investment accounts (the Statement\u0027s figure), so its in and out match again. Works for any number of people and investment accounts. That band is blue, like the rest of the investment row."
 }
