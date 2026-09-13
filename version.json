@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.23.0/FamilyBudget.exe",
-    "version":  "1.23.0",
-    "notes":  "Reports: averages divide by the months the books really cover (a month in progress counts as the share gone by). New Through last month switch (on) makes the range buttons stop at the last full month. Compare and the Family review match a month in progress day for day and say when there is no earlier data. Committed-to-bills finds bills over 12 months, so short ranges work. The Statement no longer calls money moved to or from UBS untracked. Budget vs actual shows a Not budgeted line so everything adds up. Range buttons use local time."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.24.0/FamilyBudget.exe",
+    "version":  "1.24.0",
+    "notes":  "Reports: Statement, Tax, Compare and Budget vs actual no longer keep the previous report\u0027s tile labels or colours. Group rows open that whole group\u0027s transactions (new Whole group choices in the Transactions category filter); Uncategorized, unmatched-transfer and no-spend budget rows open their own rows. A slow report can\u0027t overwrite the one picked after it. From after To is swapped. The Income report keeps every source row and its tiles show sources and pay sent straight to investments."
 }
