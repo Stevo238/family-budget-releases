@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.21.0/FamilyBudget.exe",
-    "version":  "1.21.0",
-    "notes":  "Transactions: a row in an investment account can now be counted in the budget by itself (off budget - count it / in budget). Its spending shows on the Budget page and reports, and in the money flow as its own band from the investment side to the category, never through Income. Money flow: From savings is now From bank balances (red, set apart from the pay), the Saved tile says where a shortfall came from, and Settings \u003e Income sources lets you give each source a plain name for the chart."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.22.0/FamilyBudget.exe",
+    "version":  "1.22.0",
+    "notes":  "Budget page: a From investments section under Income shows cash moved in from the investment accounts and spending paid straight from them (not income), and a new Net tile adds it in (Income - Spent + From investments). Money flow with investments: Taken out no longer counts the statement\u0027s fees a second time, so Kept invested now matches how much the accounts grew."
 }
