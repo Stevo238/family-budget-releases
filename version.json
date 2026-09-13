@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.24.0/FamilyBudget.exe",
-    "version":  "1.24.0",
-    "notes":  "Reports: Statement, Tax, Compare and Budget vs actual no longer keep the previous report\u0027s tile labels or colours. Group rows open that whole group\u0027s transactions (new Whole group choices in the Transactions category filter); Uncategorized, unmatched-transfer and no-spend budget rows open their own rows. A slow report can\u0027t overwrite the one picked after it. From after To is swapped. The Income report keeps every source row and its tiles show sources and pay sent straight to investments."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.25.0/FamilyBudget.exe",
+    "version":  "1.25.0",
+    "notes":  "Chase card rows showing \u0026amp; now read \u0026 (existing rows and rules fixed; re-imports still match). Count it can\u0027t be used on investment fees or buys/sells, and re-filing a counted row as a transfer or investment activity switches it off. Budget page counts unmatched transfers once and keeps archived categories in its totals. Investments report keeps money in and out apart in months without a statement and measures from a statement that starts mid-range correctly. Tax report includes deductible payments made from investment accounts."
 }
