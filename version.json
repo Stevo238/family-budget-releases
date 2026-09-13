@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.20.0/FamilyBudget.exe",
-    "version":  "1.20.0",
-    "notes":  "Money flow: pay that skips the bank (a paycheck slice sent straight to UBS, a 401k contribution) now leaves the person\u0027s block as its own band straight down to Investments. The person\u0027s block is their whole pay; Income is only what landed in the non-investment accounts (the Statement\u0027s figure), so its in and out match again. Works for any number of people and investment accounts."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.21.0/FamilyBudget.exe",
+    "version":  "1.21.0",
+    "notes":  "Transactions: a row in an investment account can now be counted in the budget by itself (off budget - count it / in budget). Its spending shows on the Budget page and reports, and in the money flow as its own band from the investment side to the category, never through Income. Money flow: From savings is now From bank balances (red, set apart from the pay), the Saved tile says where a shortfall came from, and Settings \u003e Income sources lets you give each source a plain name for the chart."
 }
