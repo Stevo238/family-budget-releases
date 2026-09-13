@@ -1,5 +1,5 @@
 {
-  "version": "1.17.0",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.17.0/FamilyBudget.exe",
-  "notes": "Money flow: when Settings names the people behind the paychecks, the diagram gains a layer - each paycheck source on the far left flows into its person, and the people flow into Income (sources nobody is named for still flow straight in). Cash that crosses between the bank and the investment accounts is now drawn both ways: 'From investments' arrives on the left of Income, 'To investments' leaves on the right, in the same blue, so money pulled out and put back reads as a round trip; the summary line says what the bank accounts actually ended up or down once those transfers are counted. The investment row's 'Put in' and 'Taken out' blocks say how much of each was the bank side of those same transfers. Fix: Income report person rows lined up with the month columns."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.18.0/FamilyBudget.exe",
+    "version":  "1.18.0",
+    "notes":  "Pay that goes straight into an investment account (the slice of a paycheck the payroll office sends to UBS) now counts as income: it shows up in Settings \u003e Income sources, so it can be assigned to a person, appears in the Income report with the account it landed in (the Statement stays bank-money only), and in the Money flow diagram it flows source \u003e person \u003e Income \u003e To investments, feeding the investment row\u0027s \u0027Put in\u0027. Tooltips and the summary say how much was paid straight in."
 }
