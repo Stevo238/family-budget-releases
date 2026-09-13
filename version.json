@@ -1,5 +1,5 @@
 {
-  "version": "1.13.1",
-  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.13.1/FamilyBudget.exe",
-  "notes": "Settings is less cluttered: each account and category row now has a single 'edit' that opens an inline form with every setting (account: name, type, bank, last 4, login, statement format, off budget, forget mapping; category: name, group, expense/income, tax-deductible checkbox). Plus 1.13.0: Balances tab works on the phone as cards; Accounts cards show last import and last balance check (amber when overdue); Budget page month-close checklist with a green line once a past month is done."
+  "version": "1.13.2",
+  "url": "https://github.com/Stevo238/family-budget-releases/releases/download/v1.13.2/FamilyBudget.exe",
+  "notes": "Accounts tab shows the UBS (off-budget) accounts again, in their own 'Off budget' section at the bottom - statement value, which statement month they are current through, and an Import button that opens the UBS statement import. Plus 1.13.1: one 'edit' per account/category row in Settings with every setting in an inline form (tax-deductible is a checkbox). Plus 1.13.0: Balances tab as phone cards, account freshness lines, Budget page month-close checklist."
 }
