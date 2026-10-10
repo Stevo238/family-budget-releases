@@ -1,5 +1,6 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.26.0/FamilyBudget.exe",
-    "version":  "1.26.0",
-    "notes":  "Reports: new Net worth over time (month-end chart and table; each month\u0027s change split into saved from the budget, investment growth and everything else, also in the Family review). Compare periods and the Family review can compare with the same period last year. Export CSV on every report. Interest \u0026 fees now includes the investment accounts\u0027 fees alongside the card and bank charges."
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.27.0/FamilyBudget.exe",
+    "version":  "1.27.0",
+    "notes":  "Security update (audit 2026-10-10). Saves are refused when another website tries to make them on your behalf. Updates must match a published fingerprint and come from the releases repo. CSV exports can no longer carry spreadsheet formulas. The app no longer writes every page address (payees, searches) to its log file.",
+    "sha256":  "16f1485517d0b4bd3ade11e04c87834df3e40528b0ff7f2a29bc8be3c87ec657"
 }
