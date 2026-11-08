@@ -1,6 +1,6 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.28.3/FamilyBudget.exe",
-    "version":  "1.28.3",
-    "notes":  "The \u0027not explained by income minus spending\u0027 check no longer counts timing as missing money: card charges that post the next month and payments still in transit at the end of the range (e.g. USAA paid Amex 10/30, Amex posted 11/2) are lined up by date first.",
-    "sha256":  "a93bd97ebe249ac46f5497db575b7aa8ea79edf94626ee02538691e86ce19218"
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.29.0/FamilyBudget.exe",
+    "version":  "1.29.0",
+    "notes":  "Reports: new Export packet button - a financial review packet for the chosen range, with a summary page (headline numbers, talking points, contents) and then each report you tick on its own page. Save it as one PDF or one CSV.",
+    "sha256":  "3cb777129602e48dcfcb3e4b1026ca223de981519cdd80d381aabbcf8e77d246"
 }
