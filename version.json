@@ -1,6 +1,6 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.27.0/FamilyBudget.exe",
-    "version":  "1.27.0",
-    "notes":  "Security update (audit 2026-10-10). Saves are refused when another website tries to make them on your behalf. Updates must match a published fingerprint and come from the releases repo. CSV exports can no longer carry spreadsheet formulas. The app no longer writes every page address (payees, searches) to its log file.",
-    "sha256":  "16f1485517d0b4bd3ade11e04c87834df3e40528b0ff7f2a29bc8be3c87ec657"
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.28.0/FamilyBudget.exe",
+    "version":  "1.28.0",
+    "notes":  "Budget page reminders (like \u0027no import - download the statement\u0027) each have an X to dismiss them; a dismissed one comes back only if something changes, such as a new import for that account. \u0027show again\u0027 brings them all back. Every report has an Export PDF button (choose Save as PDF in the print window). The family review now calls out the net money that came in from (or went into) the investment accounts.",
+    "sha256":  "29c1a1c75804690ec76768eb4f36fe77b635ef0b0f7432b9d878363ae6fed676"
 }
