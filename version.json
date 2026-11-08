@@ -1,6 +1,6 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.28.2/FamilyBudget.exe",
-    "version":  "1.28.2",
-    "notes":  "Imports no longer load a row twice when you renamed the payee at the bank: a row with the same day and amount as one already in the account is shown as \u0027already here as ...\u0027 and skipped (tick \u0027import anyway\u0027 if it really is new).",
-    "sha256":  "6e0529fe5b1e339857efc907a8e437c0e278f6bec2d057bceda60f2e59d28746"
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.28.3/FamilyBudget.exe",
+    "version":  "1.28.3",
+    "notes":  "The \u0027not explained by income minus spending\u0027 check no longer counts timing as missing money: card charges that post the next month and payments still in transit at the end of the range (e.g. USAA paid Amex 10/30, Amex posted 11/2) are lined up by date first.",
+    "sha256":  "a93bd97ebe249ac46f5497db575b7aa8ea79edf94626ee02538691e86ce19218"
 }
