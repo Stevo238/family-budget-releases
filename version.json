@@ -1,6 +1,6 @@
 {
-    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.28.1/FamilyBudget.exe",
-    "version":  "1.28.1",
-    "notes":  "Accounts tab: an account with an overdue import or balance check (amber line) now has a Dismiss button. Dismissing there or on the Budget page quiets that account in both places until a new import or balance comes in.",
-    "sha256":  "33f073f5180518cf7732e89cd8051afd3b32fd76d432648a3842db188810db1e"
+    "url":  "https://github.com/Stevo238/family-budget-releases/releases/download/v1.28.2/FamilyBudget.exe",
+    "version":  "1.28.2",
+    "notes":  "Imports no longer load a row twice when you renamed the payee at the bank: a row with the same day and amount as one already in the account is shown as \u0027already here as ...\u0027 and skipped (tick \u0027import anyway\u0027 if it really is new).",
+    "sha256":  "6e0529fe5b1e339857efc907a8e437c0e278f6bec2d057bceda60f2e59d28746"
 }
